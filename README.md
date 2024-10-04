@@ -1,8 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/KQFw0QXH)
-# CSEE 4119 Spring 2024, Assignment 2
+# Mini Reliable Transport Protocol
 ## Phillip Le 
-## GitHub username: philluple
-
 
 Code Structure:
 On top of the given structure, I have implemented various classes to help with both the server and client functionalities. 
